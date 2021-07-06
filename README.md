@@ -10,15 +10,13 @@
   <a href="https://www.linkedin.com/in/lucasferreirarm/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;  
-  <a href="https://www.linkedin.com/in/lucasferreirarm/">
+  <a href='mailto:lucasferreirarm@gmail.com'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;  
 </p>
 
 <p align='center'>
-  <a href='mailto:lucasferreirarm@gmail.com'>
-    <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="350">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="350">
 </p>
 
 <p align='center'>
