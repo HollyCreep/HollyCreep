@@ -22,9 +22,6 @@
 </p>
 
 <p align='center'>
-  <p align='left'>
-    Skills
-  </p>
   <table>
     <tr><td colspan='3'>Skills</td></tr>
     <tr>
