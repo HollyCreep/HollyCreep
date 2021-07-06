@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> </td>
-      <td><img src="https://img.shields.io/badge/Node.js-339933?styleqqqqq=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
       <td></td>
     </tr>
     <tr>
