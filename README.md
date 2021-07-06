@@ -129,11 +129,13 @@
   <p align='center'>
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   </p>
 
@@ -150,6 +152,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Cordova-35434F?logo=apache-cordova&logoColor=E8E8E8" />
     <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   </p>
 
