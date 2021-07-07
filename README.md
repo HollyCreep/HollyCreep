@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Full Stack Web developer from Formiga, with questionable musical tastes, enthusiastic gamer e animals lover. 
+  A Full Stack Web developer from Formiga - Brasil, with questionable musical tastes, an enthusiastic gamer e animals lover.
 </p>
 
 <p align='center'>  
@@ -15,11 +15,17 @@
   </a>&nbsp;&nbsp;  
 </p>
 
-<p float="left">
+<!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="45%">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=novatorem" width="45%">
-</p>
+</p> -->
 
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="45%">
+</>
+<p align='center'>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=default" width="45%">
+</>
 <p align='center'>
   <table>
     <tr><td colspan='3'>Skills</td></tr>
@@ -86,7 +92,7 @@
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary><h2>📃 Resume</h2></summary>
 
 ## Education
 
