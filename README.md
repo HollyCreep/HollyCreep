@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Full Stack Web developer from Formiga - Brasil, with questionable musical tastes, an enthusiastic gamer e animals lover.
+  A Full Stack Web developer from Formiga - Brasil with questionable musical tastes, an enthusiastic gamer and an animal lover.
 </p>
 
 <p align='center'>  
