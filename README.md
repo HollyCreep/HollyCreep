@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Full Stack Web developer from Formiga, Brazil.
+  A Full Stack Web developer from Formiga, with questionable musical tastes, enthusiastic gamer e animals lover. 
 </p>
 
 <p align='center'>  
@@ -15,12 +15,9 @@
   </a>&nbsp;&nbsp;  
 </p>
 
-<p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="350">
-</p>
-
-<p align='right'>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=novatorem">
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="100">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=novatorem" width="100">
 </p>
 
 <p align='center'>
