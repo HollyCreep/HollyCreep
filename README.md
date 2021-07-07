@@ -19,9 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="350">
 </p>
 
-<div align='right'>
+<span align='right'>
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-</div>
+</span>
 
 <p align='center'>
   <table>
