@@ -4,6 +4,11 @@
 </p>
 
 <p align='center'>
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=default)
+  Hi there 👋 I'm Lucas 👨‍💻
+</p>
+ 
+<p align='center'>
   A Full Stack Web developer from Formiga, Brazil.
 </p>
 
