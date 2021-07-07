@@ -77,11 +77,6 @@
     </tr>
     <tr>
       <td align='center'><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> </td>
-      <td align='center'></td>
-      <td align='center'></td>
-    </tr>
-    <tr>
-      <td align='center'></td>
       <td align='center'><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></td>
       <td align='center'></td>
     </tr>
