@@ -15,13 +15,14 @@
   </a>&nbsp;&nbsp;  
 </p>
 
-<p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="350">
-</p>
-
-<span align='right'>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-</span>
+<table> 
+  <tr>
+    <td align='center'><img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="350"></td>
+    <td align='center'>
+      [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=default)]      (https://github.com/kittinan/spotify-github-profile)
+    </td>
+  </tr>
+</table>
 
 <p align='center'>
   <table>
