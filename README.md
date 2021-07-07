@@ -1,8 +1,7 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-<h1 align='center'>
+<p align='center'>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&amp;cover_image=true&amp;theme=default">
   Hi there 👋 I'm Lucas 👨‍💻
-</h1>
+</p>
 
 <p align='center'>
   A Full Stack Web developer from Formiga, Brazil.
