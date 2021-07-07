@@ -1,14 +1,4 @@
 <p align='center'>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&amp;cover_image=true&amp;theme=default">
-  Hi there 👋 I'm Lucas 👨‍💻
-</p>
-
-<p align='center'>
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=default)
-  Hi there 👋 I'm Lucas 👨‍💻
-</p>
- 
-<p align='center'>
   A Full Stack Web developer from Formiga, Brazil.
 </p>
 
@@ -21,8 +11,13 @@
   </a>&nbsp;&nbsp;  
 </p>
 
-<p align='center'>
+<p align='left'>
   <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="350">
+</p>
+
+<p align='right'>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&amp;cover_image=true&amp;theme=default">
+  Hi there 👋 I'm Lucas 👨‍💻
 </p>
 
 <p align='center'>
