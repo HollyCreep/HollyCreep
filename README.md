@@ -1,3 +1,7 @@
+<h1 align='center'>
+   Hi there 👋 I'm Lucas 👨‍💻
+</h1>
+
 <p align='center'>
   A Full Stack Web developer from Formiga, Brazil.
 </p>
@@ -16,8 +20,7 @@
 </p>
 
 <p align='right'>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&amp;cover_image=true&amp;theme=default">
-  Hi there 👋 I'm Lucas 👨‍💻
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=novatorem">
 </p>
 
 <p align='center'>
