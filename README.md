@@ -15,9 +15,12 @@
   </a>&nbsp;&nbsp;  
 </p>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="45%">
+<p align='center'>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=np6ow90odcppvura4etiy6j8m&cover_image=true&theme=novatorem" width="45%">
+</p>
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=hollycreep&show_icons=true&count_private=true&theme=dark" width="45%">
 </p>
 
 <p align='center'>
